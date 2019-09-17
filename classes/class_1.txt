@@ -1,0 +1,14 @@
+Class: Table
+
+Attributes:
+color (string)
+tableApron (boolean)
+surfaceShape (string)
+legsQuantity (integer)
+tableCondiments (boolean)
+
+Methods:
+darkenColor (adds black to the color attribute)
+lightenColor (adds white to the color attribute)
+removeallLegsQuantity (multiplies the legsQuantity attribute by 0)
+changeSurfaceShape (changes the surfaceShape attribute)
