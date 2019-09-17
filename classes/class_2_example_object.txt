@@ -1,0 +1,13 @@
+Object: Cooked Potato
+
+Attributes:
+vegetableSkin: "Yes"
+vegetableType: "Tuber"
+saltPercentage: "40%"
+addedButter%: "50%"
+
+Methods:
+removeVegetableSkin: vegetableSkin = "No"
+changeVegetableType: vegetableType = "Root"
+noSalt: saltPercentage = "0%"
+flavorize: addedButter% = (50% + 20%) "70%"
