@@ -1,0 +1,13 @@
+Class: Cooked Vegetable
+
+Attributes:
+vegetableSkin (Boolean)
+vegetableType (String)
+saltPercentage (Integer)
+addedButter% (Integer)
+
+Methods:
+removeVegetableSkin (modifies vegetableSkin attribute to "No")
+changeVegetableType (changes vegetableType attribute)
+NoSalt (changes saltPercentage attribute to 0%)
+Flavorize (increases addedButter% attribute by 20%)
