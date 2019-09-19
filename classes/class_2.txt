@@ -7,7 +7,7 @@ saltPercentage (Integer)
 addedButter% (Integer)
 
 Methods:
-removeVegetableSkin (modifies vegetableSkin attribute to "No")
+removeVegetableSkin (modifies vegetableSkin attribute to False)
 changeVegetableType (changes vegetableType attribute)
-NoSalt (changes saltPercentage attribute to 0%)
-Flavorize (increases addedButter% attribute by 20%)
+NoSalt (changes saltPercentage attribute to 0)
+flavorize (increases addedButter% attribute by 20)

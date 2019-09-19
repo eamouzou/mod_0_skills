@@ -1,13 +1,13 @@
 Object: Cooked Potato
 
 Attributes:
-vegetableSkin: "Yes"
+vegetableSkin: True
 vegetableType: "Tuber"
-saltPercentage: "40%"
-addedButter%: "50%"
+saltPercentage: 40
+addedButter%: 50
 
 Methods:
-removeVegetableSkin: vegetableSkin = "No"
+removeVegetableSkin: vegetableSkin = False
 changeVegetableType: vegetableType = "Root"
-noSalt: saltPercentage = "0%"
-flavorize: addedButter% = (50% + 20%) "70%"
+noSalt: saltPercentage = 0
+flavorize: addedButter% = (50 + 20) 70

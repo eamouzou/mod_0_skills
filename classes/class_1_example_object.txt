@@ -2,13 +2,13 @@ Object: Bar Table
 
 Attributes:
 color: "Brown"
-tableApron: "No"
+tableApron: False
 surfaceShape: "Rectangle"
-legsQuantity: "4"
-tableCondiments: "Yes"
+legsQuantity: 4
+tableCondiments: True
 
 Methods:
-darkenColor: color = "Chocolate Brown"
-lightenColor: color = "Beige Brown"
-removeallLegsQuantity: legsQuantity = (4 * 0) "0"
+darkenColor: color = "Black Brown"
+lightenColor: color = "White Brown"
+removeallLegsQuantity: legsQuantity = (4 * 0) 0
 changeSurfaceShape: surfaceShape = "Oval"
